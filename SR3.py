@@ -1,4 +1,4 @@
-#sr3_1
+#Задание 3.1
 import math
 x1 = float(input('Введите от:'))
 x2 = float(input('и до какого значения рассматриваем функцию:'))
@@ -20,7 +20,7 @@ funtext(x1 = float(input('Введите от:')),x2 = float(input('и до ка
 
 
 
-#sr3_2
+#Задание 3.2
 import string
      file_contents = myfile.read().splitlines()
      print(file_contents.pop(k))
